@@ -227,7 +227,7 @@ var rules = {
   ],
   "~*x Chanae ~*y":[
   	"What is she auditioning for? Where is she? WHO is she????",
-  	]
+  	],
 };
 
 var default_responses = [
